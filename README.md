@@ -36,4 +36,5 @@ Quan tot funcioni, apaga la màquina i converteix-la en plantilla.
 
 ## Documents
 
+- [GUIA.md](GUIA.md): guia completa (pas a pas, comprovacions i problemes trobats)
 - [autologin-ubuntu-server.md](autologin-ubuntu-server.md): com es va configurar l'autologin a la primera plantilla Server
